@@ -17,6 +17,9 @@
 * V-Client-Request-Id
 * User-Agent
 
+
+*Please note, that all information in headers should be in **ASCII** encoding!*
+
 ---
 
 ### Example
